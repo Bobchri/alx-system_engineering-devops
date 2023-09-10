@@ -1,1 +1,1 @@
-readme for shell inittand variables
+shell variables readme
